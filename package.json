@@ -5,5 +5,5 @@
     "build": "echo 'No build step defined'"
   },
   "keywords": [],
-  "private": true
+  "private": true 
 }
