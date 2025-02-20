@@ -1,5 +1,8 @@
 {
   "name": "projet-deploiement", 
   "version": "0.1.0",
+  "scripts": {
+    "build": "echo'next build'"
+  },
   "private": true
 }
